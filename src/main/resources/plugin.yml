@@ -1,0 +1,5 @@
+name: DeCoudre
+version: 1.0.00
+author: Nilowk
+main: fr.nilowk.decoudre.Main
+api-version: 1.16

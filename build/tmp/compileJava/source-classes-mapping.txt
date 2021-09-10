@@ -1,0 +1,14 @@
+fr/nilowk/decoudre/Gstate.java
+ fr.nilowk.decoudre.Gstate
+fr/nilowk/decoudre/tasks/AutoStart.java
+ fr.nilowk.decoudre.tasks.AutoStart
+fr/nilowk/decoudre/listeners/GameManager.java
+ fr.nilowk.decoudre.listeners.GameManager
+fr/nilowk/decoudre/Main.java
+ fr.nilowk.decoudre.Main
+fr/nilowk/decoudre/listeners/PlayerListener.java
+ fr.nilowk.decoudre.listeners.PlayerListener
+fr/nilowk/decoudre/tasks/GameCycle.java
+ fr.nilowk.decoudre.tasks.GameCycle
+fr/nilowk/decoudre/tasks/FinishTask.java
+ fr.nilowk.decoudre.tasks.FinishTask
